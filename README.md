@@ -19,6 +19,9 @@
 - Vomiting
 - Dehydration
 
+**Visual/Audio Effects:**
+- None specific to cholera
+
 **Cure:** 
 - Tetracycline Pills
 
@@ -37,6 +40,10 @@
 **Symptoms:** 
 - Sneezing
 - Coughing
+
+**Visual/Audio Effects:**
+- Sneezing sounds
+- Coughing sounds
 
 **Cure:** 
 - Tetracycline Pills
@@ -59,6 +66,10 @@
 - Coughing
 - Fever
 
+**Visual/Audio Effects:**
+- Sneezing sounds
+- Coughing sounds
+
 **Cure:** 
 - Tetracycline Pills
 
@@ -77,6 +88,9 @@
 - Vomiting
 - Dehydration
 
+**Visual/Audio Effects:**
+- Vomiting sounds
+
 **Cure:** 
 - Charcoal Tablets
 
@@ -89,16 +103,15 @@
 ### Chemical Poisoning
 
 **Cause:** 
-- Consuming:
-  - Gasoline
-  - Alcohol tincture
-  - Disinfectant spray
-  - Rotten/burnt food
+- Consuming gasoline, alcohol tincture, disinfectant spray, or rotten/burnt food
 
 **Symptoms:** 
 - Vomiting
 - Dehydration
 - Blood loss
+
+**Visual/Audio Effects:**
+- Vomiting sounds
 
 **Cure:** 
 - Charcoal Tablets
@@ -116,6 +129,11 @@
 **Symptoms:** 
 - Health loss
 - Fever
+
+**Visual/Audio Effects:**
+- Pain sounds
+- Blurry vision
+- Slow stamina regeneration
 
 **Cure:** 
 - Tetracycline Pills
@@ -136,6 +154,9 @@
 - Heavy breathing
 - Rapid health loss
 
+**Visual/Audio Effects:**
+- Heavy breathing sounds
+
 **Cure:** 
 - Vitamins
 - Maintaining high stats
@@ -154,6 +175,10 @@
 - Uncontrollable laughter
 - Tremors
 
+**Visual/Audio Effects:**
+- Laughing sounds
+- Shaking screen effect
+
 **Cure:** 
 - No cure (permanent until death)
 
@@ -170,6 +195,9 @@
 **Symptoms:** 
 - Blood loss
 - Health damage
+
+**Visual/Audio Effects:**
+- None specific to hemolytic reaction
 
 **Cure:** 
 - No cure
@@ -200,9 +228,18 @@
   - Health drain
   - Distorted vision
 
+**Visual/Audio Effects:**
+- Shivering (Stage 1)
+- Blurry vision (Stage 2)
+- Deafness effect (Stage 2)
+- Distorted vision with black spots (Stage 3)
+- Pain sounds
+- Vomiting sounds (Stage 3)
+
 **Cure:** 
 - Chelating Tablets
 
 **Additional info:** 
 - Avoid consuming water from volcanic areas without purification
-- Mechanics of contracting from boiled water or cooked food are still unclear
+- Use filtering bottle for snow and hot spring water
+- Boiling water does not remove heavy metal contamination
