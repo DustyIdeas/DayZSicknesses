@@ -22,6 +22,8 @@
 **Visual/Audio Effects:**
 - None specific to cholera
 
+**Can Kill You:** Yes, if left untreated
+
 **Cure:** 
 - Tetracycline Pills
 
@@ -44,6 +46,8 @@
 **Visual/Audio Effects:**
 - Sneezing sounds
 - Coughing sounds
+
+**Can Kill You:** No, but can progress to flu
 
 **Cure:** 
 - Tetracycline Pills
@@ -70,6 +74,8 @@
 - Sneezing sounds
 - Coughing sounds
 
+**Can Kill You:** Yes, if left untreated
+
 **Cure:** 
 - Tetracycline Pills
 
@@ -90,6 +96,8 @@
 
 **Visual/Audio Effects:**
 - Vomiting sounds
+
+**Can Kill You:** Yes, if left untreated
 
 **Cure:** 
 - Charcoal Tablets
@@ -113,6 +121,8 @@
 **Visual/Audio Effects:**
 - Vomiting sounds
 
+**Can Kill You:** Yes, if left untreated
+
 **Cure:** 
 - Charcoal Tablets
 
@@ -134,6 +144,8 @@
 - Pain sounds
 - Blurry vision
 - Slow stamina regeneration
+
+**Can Kill You:** Yes, if left untreated
 
 **Cure:** 
 - Tetracycline Pills
@@ -157,6 +169,8 @@
 **Visual/Audio Effects:**
 - Heavy breathing sounds
 
+**Can Kill You:** Yes, if left untreated
+
 **Cure:** 
 - Vitamins
 - Maintaining high stats
@@ -179,6 +193,8 @@
 - Laughing sounds
 - Shaking screen effect
 
+**Can Kill You:** No, but permanent until death
+
 **Cure:** 
 - No cure (permanent until death)
 
@@ -198,6 +214,8 @@
 
 **Visual/Audio Effects:**
 - None specific to hemolytic reaction
+
+**Can Kill You:** Yes, if severe and left untreated
 
 **Cure:** 
 - No cure
@@ -235,6 +253,8 @@
 - Distorted vision with black spots (Stage 3)
 - Pain sounds
 - Vomiting sounds (Stage 3)
+
+**Can Kill You:** Yes, if left untreated
 
 **Cure:** 
 - Chelating Tablets
