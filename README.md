@@ -1,370 +1,383 @@
-# DayZ Diseases Guide (Update 1.27)
+# DayZ Diseases & Medical Guide (Update 1.29)
+
+> This guide covers vanilla DayZ 1.29. Community servers may alter disease, medicine, and environmental-hazard mechanics.
+
+## Quick Medicine Reference
+
+| Item | Primary use |
+|---|---|
+| Tetracycline Pills | Cholera, cold/influenza, advanced wound infection |
+| Charcoal Tablets | Salmonellosis and poisoning from toxic food/non-food ingestion |
+| Multivitamins | Raises immunity and can help the body clear many illnesses; useful support alongside correct treatment |
+| Iodine Tincture / Alcohol Tincture / Disinfectant Spray | Disinfect rags, bandages, sewing kits, and early wound infections |
+| Chlorine Tablets | Purify biologically contaminated water in a container |
+| Chelating Tablets | Treat heavy metal poisoning and purify heavy-metal-contaminated water |
+| PO-X Antidote | Treat poison from contaminated/toxic zones |
+| Saline Bag | Restores blood volume; does not directly cure illnesses |
+| Blood Bag | Restores blood when donor blood type is compatible |
+
+---
+
+## Core Rule: Immunity
+
+Your immune system is strongest when **health, blood, food/energy, and water/hydration are high**. Keep your character warm and dry as well.
+
+High immunity can help prevent or naturally clear some illnesses, but do not depend on it during an active serious infection. Use the correct medication, keep eating and drinking in small amounts if vomiting, and avoid further exposure to the cause.
+
+---
 
 ## Common Illnesses
 
 ### Cholera
 
-**Cause:** 
-- Drinking unpurified water from ponds/streams/lakes or from world-spawned water bottles
+**Cause:**
+- Drinking untreated water from ponds, streams, lakes, and other unsafe natural sources
+- Drinking from found bottles, canteens, or other containers without emptying and disinfecting them first
+- Consuming water from a contaminated container
 
-**Symptoms:** 
-- Vomiting
-- Severe dehydration
+**Symptoms:**
+- Vomiting after drinking or eating
+- Fast hydration loss
+- Possible fever, sweating, and blurred vision
+- Sick icon
 
-**Visual/Audio Effects:**
-- Vomiting animations visible to self and other players
-- Distinctive vomiting sounds audible to nearby players
-
-**Can Kill You:** Yes, if left untreated
+**Can kill you:** Yes. Repeated vomiting and dehydration can quickly lead to death.
 
 **Prevention:**
-- Use chlorine tablets to purify water
-- Empty and refill found bottles at wells
-- Avoid drinking directly from natural water sources
-- Multivitamins can increase immunity and reduce chances of infection, but don't rely on them as your only prevention method
+- Empty found bottles and canteens before using them
+- Refill from a well whenever possible
+- Use chlorine tablets or boil water for ordinary biological contamination
+- Do not drink untreated pond, river, stream, or lake water
+- Maintain strong immunity with high food, water, blood, and health
 
-**Cure:** 
-- Tetracycline pills (take one at a time after the pill symbol disappears)
+**Treatment:**
+- Take **one tetracycline pill**
+- Wait until the medicine icon disappears before taking the next dose
+- Multivitamins can be used as support, but tetracycline is the reliable treatment
+- Drink only a few sips at a time; wait briefly, then repeat so you do not vomit
 
-**Additional info:** 
-- Take multivitamins alongside tetracycline for better recovery
-- Sip water from wells one at a time after arrows go down
+**Important:**
+- If you drink a full stomach’s worth while infected, you may vomit and lose the water you just consumed.
+- Keep treating and drinking small amounts until the sick icon is gone.
 
 ---
 
-### Common Cold
+### Common Cold / Influenza
 
-**Cause:** 
-- Low body temperature
-- Exposure to infected players
+> In normal gameplay, players often call both of these “the flu.” The symptoms overlap, and the practical treatment is the same.
 
-**Symptoms:** 
+**Cause:**
+- Prolonged cold or wet exposure, especially with low immunity
+- Contact with an infected survivor through close proximity
+- Sharing food, drink, or contaminated items with an infected player
+
+**Symptoms:**
 - Sneezing
-- Mild coughing
+- Coughing
+- Fever or sweating
+- Blurred vision in stronger cases
+- Sick icon
 
-**Visual/Audio Effects:**
-- Sneezing and coughing sounds with improved audio quality in update 1.27
-- Character makes audible sniffling noises
-- Chattering teeth sound effects when cold (new in 1.27)
-
-**Can Kill You:** No, but can progress to flu
+**Can kill you:** Usually not directly, but it makes survival harder by draining resources and making you audible to nearby players.
 
 **Prevention:**
-- Maintain body heat with appropriate clothing
-- Update 1.27 improved heat buffer for all clothing types
+- Stay dry and warm
+- Wear clothing with good insulation
+- Dry wet clothing at a fire or indoors
+- Keep food, water, blood, and health high
+- Avoid sharing food and drinks with sick players
 
-**Cure:** 
-- Tetracycline pills or multivitamins
+**Treatment:**
+- Take **tetracycline**, one dose at a time after the pill icon disappears
+- Multivitamins can help support recovery
+- Stay warm, dry, fed, and hydrated
+- Continue treatment until the sick icon disappears
 
-**Additional info:** 
-- The 1.27 update added new character sound effects for various conditions
+**Important:**
+- Coughing and sneezing can reveal your position to infected and players.
+- Do not assume a cold automatically turns into pneumonia; pneumonia is a separate severe illness associated with major cold exposure and poor condition.
 
 ---
 
-### Influenza (Flu)
+### Salmonellosis
 
-**Cause:** 
-- Prolonged low body temperature
-- Exposure to infected players
+**Cause:**
+- Eating raw meat, raw fish, raw animal fat, or raw guts
+- Eating or drinking with bloody hands after skinning an animal
+- Consuming contaminated food
+- Receiving blood from an infected donor
 
-**Symptoms:** 
-- More frequent sneezing and coughing
-- Fever
+**Symptoms:**
+- Vomiting
+- Fast energy and hydration loss
+- Pain noises
+- Blurry vision in worse cases
+- Sick icon
 
-**Visual/Audio Effects:**
-- More frequent and intense coughing sounds than common cold
-- Audible sneezing with greater frequency
-- Character makes labored breathing noises between coughs
-
-**Can Kill You:** Yes, if progresses to pneumonia
+**Can kill you:** Yes, if vomiting and dehydration are not controlled.
 
 **Prevention:**
-- Stay warm and dry
-- Wear appropriate clothing
+- Cook meat, fish, fat, and guts thoroughly
+- Wash bloody hands at a well before eating or drinking
+- Wear gloves while skinning and handling raw meat
+- Do not eat rotten animal products
 
-**Cure:** 
-- Approximately five tetracycline pills or six multivitamin pills
-
-**Additional info:** 
-- Curing influenza provides temporary immunity from catching it again
+**Treatment:**
+- Take **charcoal tablets**
+- Wait for the medicine icon to disappear before the next dose
+- Keep food and hydration up with small bites and sips
+- Multivitamins can support immunity, but charcoal is the direct treatment
 
 ---
 
-### Toxic Poisoning (Previously Food Poisoning/Chemical Poisoning)
+### Poisoning
 
-**Cause:** 
-- Eating rotten or burnt food
-- Consuming non-food items (gasoline, disinfectant spray, alcohol tincture)
-- Eating or drinking with bloody hands
-- Eating unknown food cans
+> This is poisoning from consuming toxic food or non-food items. It is separate from toxic-zone PO-X poisoning.
 
-**Symptoms:** 
-- Stage 1: No symptoms (only sick icon appears)
-- Stage 2: Vomiting approximately once every 3 minutes
-- Stage 3: Vomiting approximately once every minute with longer animation
+**Cause:**
+- Eating rotten food
+- Eating severely burnt food or unsafe food items
+- Drinking gasoline, alcohol tincture, disinfectant spray, or other non-food substances
+- Consuming unknown or contaminated items on modded/community servers
 
-**Visual/Audio Effects:**
-- Enhanced vomiting animations with improved particle effects in update 1.27
-- More violent retching sounds
-- Visual splatter effects during vomiting sequences
-- Stamina bar depletes and becomes exhausted temporarily
+**Symptoms:**
+- Sick icon
+- Vomiting
+- Energy and hydration loss
+- Severe cases cause more frequent vomiting and can leave you unable to maintain food or water
 
-**Can Kill You:** Yes, if left untreated
+**Can kill you:** Yes, through dehydration, starvation, and health loss.
 
 **Prevention:**
-- Avoid rotten food (toxicity has been massively increased in 1.27)
-- Cook meat thoroughly
-- Don't eat with bloody hands - wash hands at a well pump before eating
-- Don't consume non-food items
-- Convert rotten fruit/vegetables to burnt using a fireplace (less toxic)
+- Do not eat rotten food unless you have no safer option
+- Do not consume medical disinfectants, fuel, or other non-food liquids
+- Cook food properly
+- Wash bloody hands before eating or drinking
 
-**Cure:** 
-- Charcoal tablets (doubles the decay rate regardless of immunity)
-- Maintaining high immunity (full health, blood, hunger stats)
+**Treatment:**
+- Take **charcoal tablets**
+- Maintain high food, water, blood, and health
+- Consume food and water in very small portions between vomiting episodes
+- Stop consuming the contaminated item immediately
 
-**Additional info:** 
-- In 1.27, food poisoning and chemical poisoning are now functionally identical
-- Each vomiting episode removes some toxins but causes loss of 70 energy and 55 hydration
-- With full immunity (all stats in white), toxic poisoning decays 4x faster
-- With charcoal tablets and full immunity, toxic poisoning decays 8x faster
-- For burnt fruits/vegetables: eat 6 bites, wait for sick icon to disappear, then repeat
-- With low immunity: limit to 3 bites before waiting for icon to disappear
-- With full immunity or multivitamins: can eat up to 9 bites before waiting
-
----
-
-### Salmonella
-
-**Cause:** 
-- Eating raw meat
-- Handling food with bloody hands after skinning animals
-
-**Symptoms:** 
-- Vomiting (less frequent than cholera)
-
-**Visual/Audio Effects:**
-- Vomiting animations visible to self and others
-- Audible vomiting and retching sounds
-- Character hunches over during vomiting episodes
-
-**Can Kill You:** Yes, if left untreated
-
-**Prevention:**
-- Cook meat thoroughly
-- Avoid rotten food
-- Wash hands at a well pump before eating
-
-**Cure:** 
-- Charcoal tablets (take one, wait five minutes for buff to expire, repeat if needed)
-
-**Additional info:** 
-- Update 1.27 has revised food poisoning mechanics - blood on hands from skinning animals now gives BOTH food poisoning AND salmonella
+**Important:**
+- Poisoning from bad food is **not** treated with PO-X Antidote.
+- Charcoal tablets are the relevant medicine for ingestion-based poisoning.
 
 ---
 
 ### Wound Infection
 
-**Cause:** 
-- Using non-disinfected items to bandage wounds
+**Cause:**
+- Bandaging with rags, bandages, clothing, or sewing kits that were not disinfected
+- Leaving a wound untreated long enough for it to become infected
 
-**Symptoms:** 
-- Stage 1: Pain, reduced stamina regeneration, blurry vision
-- Stage 2: Constant sweating, louder pain sounds, health loss
+**Stage 1 Symptoms:**
+- Light pain sounds
+- Mild blurred vision
+- Reduced stamina recovery
+- Sick icon
 
-**Visual/Audio Effects:**
-- Pain sounds (groaning and wincing)
-- Progressive blurry vision effect (intensifies in later stages)
-- Visible sweating animations on character model
-- Character visibly struggles with movement
-
-**Can Kill You:** Yes, if left untreated
-
-**Prevention:**
-- Disinfect rags, bandages, bandanas and sewing kits before use
-
-**Cure:** 
-- Stage 1 (first 20 minutes) - iodine tincture, alcohol tincture, or disinfectant spray
-- Stage 2 - tetracycline pills (take after pill symbol disappears)
-
-**Additional info:** 
-- Bleeding effects have been reworked in update 1.27 for added realism
-
----
-
-## Severe Illnesses
-
-### Pneumonia
-
-**Cause:** 
-- Untreated influenza
-- Prolonged exposure to cold
-
-**Symptoms:** 
-- Gasping for air
-- Actions taking more stamina
-- Stamina regenerating 50% slower
+**Stage 2 Symptoms:**
+- Stronger pain sounds
+- Heavy blurred vision
+- Sweating and fever
 - Health loss
+- Serious risk of death if untreated
 
-**Visual/Audio Effects:**
-- Labored breathing sounds with wheezing
-- Audible gasping for air
-- Character movement appears more strained
-- Stamina bar depletes faster visually
-
-**Can Kill You:** Yes, fatal within 24 minutes if untreated
+**Can kill you:** Yes.
 
 **Prevention:**
-- Treat common cold or flu promptly
-- Stay warm and dry
+- Disinfect rags, bandages, bandanas, and sewing kits before using them on wounds
+- Carry sterile bandages when possible
+- Disinfect wounds early if you were forced to use an unclean bandage
 
-**Cure:** 
-- Extremely difficult to cure
-- Multivitamins
-- Boosting immune system by eating, drinking, and standing by a fire
+**Treatment:**
+- **Early stage:** Use iodine tincture, alcohol tincture, or disinfectant spray on the wound
+- **Advanced stage:** Use tetracycline pills, one dose at a time after the pill icon disappears
+- Stay warm, hydrated, and fed while recovering
 
-**Additional info:** 
-- Almost always fatal if not caught at the earliest stage
+**Important:**
+- Once the infection reaches its advanced stage, disinfectant alone is usually no longer enough; use tetracycline.
 
 ---
 
-### Brain Disease (Kuru)
+## Severe / Permanent Conditions
 
-**Cause:** 
-- Consuming human flesh (cannibalism)
+### Brain Prion Disease (Kuru)
 
-**Symptoms:** 
+**Cause:**
+- Eating human meat, human fat, human guts, or human steak
+
+**Symptoms:**
 - Uncontrollable laughter
-- Tremors
-- Emotional degradation
-- Gradual loss of coordination
+- Hand tremors
+- Aim and weapon sway problems
+- Audible laughing that can expose your location
 
-**Visual/Audio Effects:**
-- Random uncontrollable laughing sounds
-- Visible body tremors/shaking
-- Screen shake effect during tremor episodes
-- Character hands visibly shake when holding items
-- Erratic head movements visible to other players
-
-**Can Kill You:** Yes, eventually fatal
+**Can kill you:** It is permanent and remains until your character dies; the practical consequence is severe loss of stealth and control.
 
 **Prevention:**
-- Avoid cannibalism completely
+- Do not eat any human body parts
 
-**Cure:** 
-- No cure (permanent until death)
-
-**Additional info:** 
-- Also known as "laughing sickness" due to abnormal bursts of laughter
+**Treatment:**
+- No cure
+- The condition lasts until death/respawn
 
 ---
 
 ### Hemolytic Reaction
 
-**Cause:** 
-- Receiving incompatible blood type
+**Cause:**
+- Receiving incompatible blood in a transfusion
 
-**Symptoms:** 
-- Instant unconsciousness
+**Symptoms:**
+- Rapid blood loss
+- Unconsciousness
+- Sick icon
+- Risk of death if blood falls too low
 
-**Visual/Audio Effects:**
-- Screen fades to black during unconsciousness
-- Muffled audio when unconscious
-
-**Can Kill You:** Yes, if severe and left untreated
+**Can kill you:** Yes.
 
 **Prevention:**
-- Know blood type compatibility before transfusions
+- Use only compatible donor blood
+- Safest universal emergency choice: use a saline bag instead of unknown blood
+- Know your character's blood type before carrying out transfusions
 
-**Cure:** 
-- Saline bag to stabilize
-
-**Additional info:** 
-- Check blood types carefully before performing transfusions
+**Treatment:**
+- There is no medicine that instantly cures the reaction
+- Survive until the reaction naturally ends
+- Use saline or compatible blood afterward if blood is critically low
+- Stay protected while unconscious or recovering
 
 ---
 
-## Environmental Illnesses
+### Pneumonia
+
+**Cause:**
+- Severe or prolonged cold exposure
+- Remaining wet, cold, and in poor condition for too long
+
+**Symptoms:**
+- Heavy breathing and gasping
+- Severe stamina penalties
+- Slower stamina recovery
+- Health loss
+- Sick icon
+
+**Can kill you:** Yes. It is one of the most dangerous standard illnesses.
+
+**Prevention:**
+- Do not stay wet or cold
+- Use a fire, shelter, dry clothing, heat packs, and insulated gear
+- Treat cold/flu symptoms early and maintain high immunity
+
+**Treatment:**
+- Get warm and dry immediately
+- Keep health, blood, food, and hydration high
+- Use tetracycline and multivitamins as soon as possible
+- Avoid combat and long travel until your condition improves
+
+---
+
+## Environmental Conditions
 
 ### Heavy Metal Poisoning
 
-**Cause:** 
-- Exposure to contaminated snow or water from hot springs in volcanic areas
+**Map relevance:** Primarily Sakhal.
 
-**Symptoms:** 
-- Multiple stages of increasing severity
-- Final deadly stage kills in 40 minutes
+**Cause:**
+- Eating untreated snow contaminated by volcanic ash
+- Drinking water from hot springs or other heavy-metal-contaminated sources
 
-**Visual/Audio Effects:**
-- Similar to other poisoning symptoms but more severe in later stages
+**Symptoms:**
+- Illness progresses through increasingly severe stages
+- Worsening stamina and survival penalties
+- Final stages can become fatal
 
-**Can Kill You:** Yes, rapidly fatal in final stage if untreated
+**Can kill you:** Yes.
 
 **Prevention:**
-- Avoid consuming water from volcanic areas without filtration
-- Use proper containers for water collection
+- Do not eat untreated snow
+- Do not drink hot-spring water directly
+- Use a filtering bottle or chelating tablets for heavy-metal risk
+- Do not assume chlorine tablets or boiling remove heavy metals
 
-**Cure:** 
-- Chelating Tablets (take longer to cure in 1.27 update)
+**Treatment:**
+- Take **chelating tablets**
+- Stop consuming contaminated snow or water
+- Maintain food, water, blood, and health while recovering
 
-**Additional info:** 
-- In update 1.27, it's harder to get full-blown heavy metal poisoning from snow
-- However, when you do reach the final stage, it takes longer to cure
+**Important:**
+- Chelating tablets can also treat heavy-metal-contaminated water in a container.
+- Chlorine tablets address ordinary biological water contamination, not heavy metals.
 
 ---
 
-### Toxic Zone Poisoning
+### Toxic Zone Poisoning (PO-X)
 
-**Cause:** 
-- Exposure to toxic zones without proper protection
+**Cause:**
+- Entering or staying in a contaminated zone without full NBC protection
+- Damaged or missing NBC gear
+- Using an unsealed/missing gas mask filter
 
-**Symptoms:** 
+**Symptoms:**
+- Coughing
 - Coughing blood
-- Eventually death
+- Vomiting
+- Health loss
+- Unconsciousness and death with severe exposure
 
-**Visual/Audio Effects:**
-- Coughing animations with blood particle effects
-- Painful coughing sound effects
-- Screen edges begin to darken as condition worsens
-- Vision becomes increasingly blurred with exposure time
-
-**Can Kill You:** Yes, rapidly fatal if untreated
+**Can kill you:** Yes, quickly.
 
 **Prevention:**
-- Avoid toxic zones or wear full NBC protection
+- Avoid contaminated zones unless you have a complete, functional NBC suit
+- Wear an NBC hood, jacket, pants, gloves, boots, and a gas mask with a usable filter
+- Leave the area immediately if your protective gear becomes compromised
 
-**Cure:** 
-- PO-X Antidote
+**Treatment:**
+- Use a **PO-X Antidote**
+- Leave the contaminated zone immediately
+- In emergencies, blood transfusions from a healthy donor may help support survival, but PO-X Antidote is the direct treatment
 
-**Additional info:** 
-- Proper gas mask and NBC suit required for toxic zone protection
+**Important:**
+- Charcoal tablets do not cure PO-X poisoning.
+- Chelating tablets do not cure PO-X poisoning.
 
 ---
 
 ### Frostbite
 
-**Cause:** 
-- Prolonged cold exposure
+**Map relevance:** Most important on Sakhal and during severe winter exposure.
 
-**Symptoms:** 
-- Blue skin
-- Permanent max health reduction
+**Cause:**
+- Prolonged exposure to extreme cold
 
-**Visual/Audio Effects:**
-- Visual bluish tint appearing on extremities (hands, feet)
-- Character model shows visible frost on clothing
-- Shivering animations in early stages
-- Screen edges may develop frost-like visual effects in severe cases
+**Symptoms:**
+- Blue/gray skin on affected areas
+- Permanent reduction to maximum health
+- Increased vulnerability due to reduced health capacity
 
-**Can Kill You:** Not directly, but reduces maximum health
+**Can kill you:** Not directly, but the permanent maximum-health loss makes other injuries and illnesses much more dangerous.
 
 **Prevention:**
-- Stay warm
-- Use heatpacks
-- Proper insulated clothing (improved with update 1.27's enhanced heat buffer)
+- Stay warm before your temperature becomes dangerous
+- Wear insulated clothing, gloves, face covering, and proper footwear
+- Use fires, heat packs, shelter, and dry clothing
+- Avoid standing exposed in blizzards, high wind, and freezing water
 
-**Cure:** 
-- Keep warm
-- Use heat sources
+**Treatment:**
+- Warm up immediately to stop further risk
+- Frostbite damage is permanent for that character; warming prevents progression but does not restore lost maximum health
 
-**Additional info:** 
-- The 1.27 update improves heat retention with all clothing, especially those with low insulation
+---
+
+## Survival Priorities When Sick
+
+1. Stop bleeding and get out of danger.
+2. Get warm and dry before traveling further.
+3. Identify the symptom: vomiting, cough/sneeze, wound pain/blur, laughter/tremor, gas-zone cough, or cold exposure.
+4. Take the matching medicine, then wait for its pill icon to disappear before redosing.
+5. Eat and drink in small amounts if vomiting.
+6. Keep food, water, blood, and health high to maximize immunity and recovery.
+7. Do not share food, drink, blood, or close indoor space with sick players when avoidable.
