@@ -2,6 +2,30 @@
 
 > This guide covers vanilla DayZ 1.29. Community servers may alter disease, medicine, and environmental-hazard mechanics.
 
+## Table of Contents
+
+### Common Illnesses
+- [Cholera](#cholera)
+- [Common Cold / Influenza](#common-cold--influenza)
+- [Salmonellosis](#salmonellosis)
+- [Poisoning](#poisoning)
+- [Wound Infection](#wound-infection)
+
+### Severe / Permanent Conditions
+- [Brain Prion Disease (Kuru)](#brain-prion-disease-kuru)
+- [Hemolytic Reaction](#hemolytic-reaction)
+- [Pneumonia](#pneumonia)
+
+### Environmental Conditions
+- [Heavy Metal Poisoning](#heavy-metal-poisoning)
+- [Toxic Zone Poisoning (PO-X)](#toxic-zone-poisoning-po-x)
+- [Frostbite](#frostbite)
+
+### Other Sections
+- [Quick Medicine Reference](#quick-medicine-reference)
+- [Core Rule: Immunity](#core-rule-immunity)
+- [Survival Priorities When Sick](#survival-priorities-when-sick)
+
 ## Quick Medicine Reference
 
 | Item | Primary use |
